@@ -1,1 +1,7 @@
 Ветки demo и master отличаются файлом README.
+5
+hometask.txt added
+Merge branch 'boots_buttons' of https://github.com/AixGalericalata/git_lab1_lesson2
+Merge branch 'hat' of https://github.com/AixGalericalata/git_lab1_lesson2
+Merge branch 'buttons' of https://github.com/AixGalericalata/git_lab1_lesson2
+Merge branch 'boots' of https://github.com/AixGalericalata/git_lab1_lesson2
